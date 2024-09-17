@@ -1,16 +1,32 @@
-## Hi there 👋
+<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
+  <h1>Hi, I'm Craig! 👋</h1>
+</div>
 
-<!--
-**CraigWoodcock/CraigWoodcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a strong background in Java, REST APIs, and cloud technologies like AWS and Azure. Currently, I'm diving deeper into platform engineering and continuously learning new tools and technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 💻 **Languages:** Java, Python, HTML, CSS
+- 🌐 **Frameworks & Tools:** Spring Boot, Git, GitLab CI, IntelliJ IDEA
+- ☁️ **Cloud:** AWS (EC2, VPC, Auto Scaling), Microsoft Azure
+- 📊 **Databases:** MySQL, MongoDB
+- 📈 **Learning:** Advanced cloud deployment strategies, microservices architecture
+
+---
+
+### 🔭 Current Projects
+
+- Building and deploying REST APIs on AWS. Mainly a fishing session tracking app.
+- Developing a personal profile webpage using HTML and CSS
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 [craig.woodcock89@hotmail.co.uk](mailto:craig.woodcock89@hotmail.co.uk)
+- [LinkedIn](https://www.linkedin.com/in/craig-woodcock/)
+- [Portfolio Website](#) (Coming Soon!)
+
+---
